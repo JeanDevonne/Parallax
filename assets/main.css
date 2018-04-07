@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+}
+section {
+    text-align: center;
+    vertical-align: center;
+    background-attachment: fixed;
+}
+p {
+    font-size: 2em;
+}
+.uno{
+    line-height: 100vh;
+    background-image: url(../img/camino.jpg);
+    background-size: cover;
+}
+.dos{
+    line-height: 100vh;
+    background-image: url(../img/luces.jpg);
+    background-size: cover;
+}
